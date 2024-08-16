@@ -70,7 +70,7 @@ a)Who are the most valuable customers and what do they purchase?
 
 # Modeling
 
-
+![](dashboard.png)
 
 ## II
 
