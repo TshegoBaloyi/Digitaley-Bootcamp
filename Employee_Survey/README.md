@@ -38,7 +38,7 @@ results?
 
 # Modeling
 
-![](employee survey.png)
+![](employee_survey.png)
 
 ## II
 
